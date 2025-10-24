@@ -13,5 +13,5 @@
         ".env": true
     },
     "python.envFile": "${workspacefolder}/.env",
-    "microbit.comPort": "14"
+    "microbit.comPort": "17"
 }
